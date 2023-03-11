@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @JoeGr1
-- 👀 A rugby player on the weekend, I am learning to code with the aim of persuing a carrer in web development which is how i spend my week.
-- 🌱 I'm new to coding currently trying to master javascript, while also learning HTML and CSS.
+- 👀 A bBrainStation student studying software engineering, looking to become a web developer.
+- 🌱 I am always keen to meet like minded indivuals share code/ideas and improve my skills 
 
-- Currently Enrolled to BrainStations Software Engineering Bootcamp.
+- Current stack is HTML CSS JavaScript React.js Node.js Express.js MySQL
 
-- 🤝 I’m looking to meet fellow programers/developers into sport, crypto and gaming 🕹
-- 📫 How to reach me ... Right here on github!
+- 📫 How to reach me: Right here on github! LinkedIn: https://www.linkedin.com/in/joe-jgregson/ 
 
 <!---
 JoeGr1/JoeGr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

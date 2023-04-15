@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoeGr1
-- 👀 A bBrainStation student studying software engineering, looking to become a web developer.
+- 👀 A BrainStation Software Engineering Graduate, looking for a Junior Developer.
 - 🌱 I am always keen to meet like minded indivuals share code/ideas and improve my skills 
 
-- Current stack is HTML CSS JavaScript React.js Node.js Express.js MySQL
+- Current stack is HTML | SCSS | JavaScript | React.js | Node.js | Express.js | MySQL | knex.js | Gitflow
 
 - 📫 How to reach me: Right here on github! LinkedIn: https://www.linkedin.com/in/joe-jgregson/ 
 
